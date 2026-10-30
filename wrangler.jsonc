@@ -1,0 +1,7 @@
+{
+  "name": "astro-tutorial",
+  "compatibility_date": "2026-10-30", // 更新为你部署当天的日期
+  "assets": {
+    "directory": "./dist"
+  }
+}
